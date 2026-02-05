@@ -1,7 +1,7 @@
 {
-  "name": "github-actions-demo",
+  "name": "sample-ci-app",
   "version": "1.0.0",
   "scripts": {
-    "test": "echo \"Tests passed\""
+    "test": "node index.js"
   }
 }
